@@ -1,0 +1,1 @@
+Please forgive that the smartMove class is not very smart. I have not had time to make it work the way I want to so for now it makes guesses at random.
